@@ -1,1 +1,2 @@
-# fortnite_ios_outside-eu
+# EU外でフォートナイトを無料でインストールするためのIPA
+IPAファイルはReleaseからダウンロードできます
